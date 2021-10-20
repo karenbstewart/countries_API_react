@@ -1,0 +1,22 @@
+.country-detail{
+    background-color: #f2f2f2;
+    width:80%;
+    margin: auto;
+    
+}
+
+.country-detail > img{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    padding: 0px 40px; 
+}
+.country-detail > h2{
+    padding: 20px 40px; 
+}
+
+.country-detail > h3{
+    padding: 0px 40px; 
+}
+
+
