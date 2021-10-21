@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import CountrySelector from "../components/CountrySelector";
 import CountryDetail from "../components/CountryDetail";
-import Country from "../models/Country";
+
 
 
 const CountryContainer = () => {
